@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleTest", "ScaleTest.csproj", "{2D875636-D57D-9FED-71CA-78C74D4A0418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleTest.Editor", "ScaleTest.Editor.csproj", "{E88B0951-F74A-9960-05A7-570A7A1C50D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D875636-D57D-9FED-71CA-78C74D4A0418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D875636-D57D-9FED-71CA-78C74D4A0418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D875636-D57D-9FED-71CA-78C74D4A0418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D875636-D57D-9FED-71CA-78C74D4A0418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88B0951-F74A-9960-05A7-570A7A1C50D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88B0951-F74A-9960-05A7-570A7A1C50D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88B0951-F74A-9960-05A7-570A7A1C50D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88B0951-F74A-9960-05A7-570A7A1C50D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
